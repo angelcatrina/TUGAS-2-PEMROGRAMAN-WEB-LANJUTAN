@@ -182,15 +182,4 @@ Schema ini memastikan bahwa data yang dikirim oleh API memiliki struktur yang be
 
 ---
 
-#  Author
 
-**Angel Catrina Sobbu - H071241094**
-
-Mata Kuliah: Pemrograman Web Lanjutan
-Tugas: Implementasi CRUD Dasar dengan FastAPI
-
----
-
-#  Lisensi
-
-Project ini dibuat untuk **keperluan pembelajaran dan tugas perkuliahan**.
